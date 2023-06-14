@@ -391,3 +391,80 @@ input[type="radio"] {
         background-color: rbga(112, 180, 20, 1);	
         color: rgb(10, 255, 10);
 }
+
+/* Media Querries */
+
+/* For large to medium screens sizes from 1200px wide and down */
+@media screen and (max-width: 1200px){  
+        body p {
+                font-size: 16px;
+                padding: 0 5px 0 5px;
+        }
+
+        .social-networks i{
+                font-size: 240%;
+                color: green;
+                padding: 2% 5% 0 5%;
+            }
+}
+    
+/* For medium screens sizes from 950px wide and down */
+@media screen and (max-width: 950px){
+        .col {
+                flex: 100%;
+                max-width: 90%;
+        }
+
+        body p {
+                font-size: 15px;
+                padding: 0 8px 0 8px;
+        }
+
+        .social-networks i {
+                font-size: 220%;
+                color: green;
+                padding: 2% 5% 0 5%;
+        }
+}
+
+/* For small screens sizes from 800px wide and down */
+@media screen and (max-width: 800px){
+        .col {
+                flex: 100%;
+                max-width: 100%;
+        }
+
+        body p {
+                font-size: 14px;
+                padding: 0 8px 0 8px;
+        }
+
+        .social-networks i {
+                font-size: 200%;
+                color: green;
+                padding: 2% 5% 0 5%;
+            }
+}
+
+/* For small screens sizes from 800px wide and down */
+@media screen and (max-width: 450px){
+        h1 {
+                position: relative;
+                font-size: 110%;
+                padding-top: 10px;
+        }
+
+        body p {
+                font-size: 16px;
+                padding: 0 8px 0 8px;
+        }
+        
+        footer {
+                font-weight: bolder;
+        }
+        
+        .social-networks i{
+                font-size: 180%;
+                color: green;
+            }
+}
