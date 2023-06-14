@@ -5,7 +5,8 @@ font-family: 'Biryani', sans-serif;
 font-family: 'Oswald', sans-serif; 
 */
 :root {
-        --background: rgba(112, 150, 69, 0.69)
+        --background: rgba(112, 150, 69, 0.69);
+        --offerbg: rgba(112, 150, 60, 0.69);
 }
 
 * {
@@ -187,4 +188,65 @@ footer {
 
     .social-networks i:visited {
         color: yellowgreen;
+}
+
+/* offerings.html css */
+
+.off-out {
+        position: relative;
+        text-align: center;
+        margin: 2% 0 0 5%;
+        padding-bottom: 50p;
+        text-shadow: 1px 1px 1px black, 5px 5px 10px rgba(105, 105, 105, 0.4);
+}
+
+#stress-managment-about {
+        height: 90%;
+        width: 90%;
+        border: 3px solid rgb(0, 80, 0);
+        background-color: var(--offerbg);
+        border-radius: 1%;
+}
+
+#stress-managment-about h2 {
+        font-family: 'Oswald', sans-serif;
+        font-size: 26px;
+        Color: rgb(0, 100, 1);
+        padding: 10px;
+        text-transform: uppercase;
+}
+
+#stress-managment-about p {
+        font-family: 'Biryani', sans-serif;
+        font-size: 20px;
+        color: black;
+        padding: 0 20px 5px 20px;
+        text-transform: capitalize;
+}
+
+#self-discovery-about {
+        height: 90%;
+        width: 90%;
+        margin-bottom: 20px;
+        text-align: center;
+        border: 3px solid rgb(0, 80, 0);
+        background-color: var(--offerbg);
+        border-radius: 1%;
+}
+
+#self-discovery-about h2 {
+        font-family: 'Oswald', sans-serif;
+        font-size: 26px;
+        position: relative;
+        Color: rgb(0, 100, 1);
+        padding: 10px;
+        text-transform: uppercase;
+}
+
+#self-discovery-about p {
+        font-size: 20px;
+        position: relative;
+        color: black;
+        padding: 0 20px 5px 20px;
+        text-transform: capitalize;
 }
