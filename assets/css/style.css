@@ -130,3 +130,13 @@ nav a:hover {
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
+
+/* Creates the level of zoom for hero image */
+@keyframes main-img-zoom {
+        from{
+            transform: scale(0.9);
+        }
+        to{
+            transform: scale(1);
+        }
+    }
