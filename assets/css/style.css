@@ -41,6 +41,12 @@ header {
         z-index: 999;
 }
 
+.about-text {
+        display: block;
+        padding: 10px;
+        border: none;
+}
+
 .nav-tog {
         display: none;
 }
@@ -103,4 +109,24 @@ nav a:hover {
 .logo {
         position: relative;
         text-shadow: 1px 1px 2px yellowgreen, 0 0 6px green, 0 0 8px darkgreen;
+}
+
+/* Main image and cover text */
+
+.hero-img-out{
+    overflow: hidden;
+    height: 600px;
+    width: 100%;
+    position: relative;
+    background-size: cover;
+}
+
+.hero-img{
+        height: 600px;
+        width: 100%;
+
+    /* Animates zoom effect on loading the page */
+    animation-name: main-img-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
 }
