@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Biryani:wght@300&family=Oswald:wght@500&display=swap');
+/*
+Font family rules
+font-family: 'Biryani', sans-serif;
+font-family: 'Oswald', sans-serif; 
+*/
+:root {
+        --background: rgba(112, 150, 69, 0.69)
+}
+
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+}
+
+body {
+        text-align: center;
+}
+
+body h2 {
+        padding-top: 10px;
+}
+
+body p {
+        font-family: 'Biryani', sans-serif;
+        font-size: 18px
+}
+
+/* Navigation Style */
+
+header {
+        font-size: 100%;
+        font-family: 'Oswald', sans-serif;
+        background: var(--background);
+        text-transform: uppercase;
+        position: fixed;
+        min-height: 5%;
+        max-height: 10%;
+        width: 100%;
+        z-index: 999;
+}
+
+.nav-tog {
+        display: none;
+}
+
+nav {
+        font-family: 'Oswald', sans-serif;
+        color: green;
+        position: absolute;
+        text-align: left;
+        background: var(--background);
+        top: 100%;
+        left: 0;
+        Margin:auto;
+        transform: scale(1,0);
+        transform-origin: top;
+        transition: transform 400ms ease-in-out;
+}
+
+nav ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+}
+
+nav li {
+        margin: 20px 20px 20px 20px;
+}
+
+nav a {
+        color: bisque;
+        text-decoration: none;
+        font-size: 1.2rem;
+        text-transform: uppercase;
+        opacity: 0;
+        transition: opacity 120ms ease-in-out;
+}
+
+nav a:hover {
+        color: rgb(0, 255, 64);
+}
+
+.nav-tog:checked ~ nav {
+        transform: scale(1,1);
+}
+
+.nav-tog:checked ~ nav a {
+        opacity: 1;
+        transition: opacity 250ms ease-in-out 250ms;
+}
+
+.nav-tog-label {
+        position: absolute;
+        top: 20%;
+        left: 10px;
+        margin-left: 1em;
+        display: flex;
+        align-items: center;
+}
+
+.logo {
+        position: relative;
+        text-shadow: 1px 1px 2px yellowgreen, 0 0 6px green, 0 0 8px darkgreen;
+}
