@@ -250,3 +250,75 @@ footer {
         padding: 0 20px 5px 20px;
         text-transform: capitalize;
 }
+
+/* Review.html CSS */
+
+.testimonials {
+        padding: 4px 0;
+        text-align: center;
+}
+
+.inner {
+        max-width: 1200px;
+        margin: auto;
+        overflow: hidden;
+        padding: 0 20px;
+}
+
+.border {
+        width: 160px;
+        height: 5px;
+        background: #00eb5a;
+        margin: 2px auto;
+        box-shadow: 3px 3px 5px grey;
+}
+
+.row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+}
+
+.col {
+        text-align: center;
+        flex: 30%;
+        max-width: 30%;
+        display: inline-block;
+        box-sizing: border-box;
+        margin: 5px 10px 30px 5px;
+        padding: 15px;
+        border: 1px solid black;
+        border-radius: 15%;
+        box-shadow: 1px 1px 1px black, 3px 3px 5px grey;
+}
+
+.testimonial {
+        background-color: #fafafa;
+        padding: 30px;
+}
+
+.profile-img {
+        width: 25%;
+        height: 25%;
+        border-radius: 50%;
+}
+
+.name {
+        font-size: 20px;
+        text-transform: uppercase;
+        padding: 5px;
+}
+
+.rev-title {
+        padding: 5px;
+}
+
+.stars {
+        color: gold;
+        padding: 5px;
+        text-shadow: 1px 1px 1px black, 2px 3px 5px grey;
+}
+
+.review-text {
+        font-size: 12px;
+}
