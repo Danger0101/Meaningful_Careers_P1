@@ -139,4 +139,52 @@ nav a:hover {
         to{
             transform: scale(1);
         }
+}
+
+#mission {
+        font-family: 'Biryani', sans-serif;
+        text-align: center;
+}
+
+#misson p {
+        font-size: 18px;
+        padding: 5% 4% 5% 4%;
+}
+
+footer {
+        float: inline-end;
+        margin-bottom: 0;
+        height: 10%;
+        width: 100%;
+        background-color: var(--background);
+        text-shadow: 1px 1px 1px black, 2px 3px 5px grey;
+}
+
+#contact {
+        padding-top: 20px;
+        text-align: center;
+}
+
+.social-networks {
+        text-align: center;
+        padding: 0;
     }
+    
+    .social-networks li{
+        display: inline;
+    }
+    
+    .social-networks i{
+        font-size: 280%;
+        color: green;
+        margin: 3%;
+        padding: 0% 5% 0 5%;
+    }
+
+.social-networks i:hover {
+        color: yellowgreen;
+}
+
+    .social-networks i:visited {
+        color: yellowgreen;
+}
