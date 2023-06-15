@@ -392,6 +392,39 @@ input[type="radio"] {
         color: rgb(10, 255, 10);
 }
 
+/* thankyou.html css */
+
+.ty-outer {
+        position: relative;
+        text-align: center;
+}
+
+.ty-cover {
+        height: 160px;
+        width: 180px;
+        position: absolute;
+        top: 50px;
+        left: 50px;
+        background-color: rgba(80, 120, 20, .6);
+        transform: translate(50px, 50px);
+        color: bisque;
+        text-shadow: 1px 1px 1px black, 2px 3px 5px grey;
+        border: 5px black;
+        text-transform: uppercase;
+        border-radius: 30% 20%;
+        padding: 40px 0 0 0;
+}
+
+.ty-text-span {
+        font-size: 18px;
+        display: inline-block;
+}
+
+.ty-img img {
+        height: 100%;
+        width: 100%;
+}
+
 /* Media Querries */
 
 /* For large to medium screens sizes from 1200px wide and down */
