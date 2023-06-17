@@ -123,7 +123,7 @@ nav a:hover {
 }
 
 .hero-img{
-        height: 10%;
+        height: auto;
         width: 100%;
 
         /* Animates zoom effect on loading the page */
@@ -430,6 +430,15 @@ input[type="radio"] {
 /* Media Querries */
 
 /* For large to medium screens sizes from 1200px wide and down */
+
+@media screen and (min-width: 1201px){  
+        .hero-img {
+                height: 600px;
+                width: 86%;
+                margin: 0 7%;
+        }
+}
+
 @media screen and (max-width: 1200px){  
         body p {
                 font-size: 16px;
