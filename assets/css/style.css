@@ -98,7 +98,8 @@ nav a:hover {
         transition: opacity 250ms ease-in-out 250ms;
 }
 
-.nav-tog-label {position: absolute;
+.nav-tog-label {
+        position: absolute;
         top: 20%;
         left: 10px;
         margin-left: 1em;
@@ -122,7 +123,7 @@ nav a:hover {
 }
 
 .hero-img{
-        height: 600px;
+        height: 10%;
         width: 100%;
 
         /* Animates zoom effect on loading the page */
@@ -327,7 +328,8 @@ footer {
 
 /* Form */
 
-.form-section {clear: left;
+.form-section {
+        clear: left;
         background: url("../images/boxfall.webp") no-repeat center;
         background-size: cover;
         background-position: center;
@@ -344,7 +346,7 @@ footer {
         padding: 30px;
         border-radius: 10% 20%;
 }
-    
+
 .signup-form > h2 {	
         color: var(--signup-text);
         margin-bottom: 20px;
@@ -443,6 +445,11 @@ input[type="radio"] {
     
 /* For medium screens sizes from 950px wide and down */
 @media screen and (max-width: 950px){
+        .hero-img-out{
+                height: 550px;
+                width: 100%;
+        }
+
         .col {
                 flex: 100%;
                 max-width: 90%;
@@ -462,6 +469,10 @@ input[type="radio"] {
 
 /* For small screens sizes from 800px wide and down */
 @media screen and (max-width: 800px){
+        .hero-img-out{
+                height: 400px;
+                width: 100%;
+        }
         .col {
                 flex: 100%;
                 max-width: 100%;
@@ -476,11 +487,25 @@ input[type="radio"] {
                 font-size: 200%;
                 color: green;
                 padding: 2% 5% 0 5%;
-            }
+        }
+
+        .form-section {
+                height: 800px;
+        }
+
+        .signup-form {
+                max-width: 400px;
+                left: 5%;
+                padding: 10px;
+        }
 }
 
 /* For small screens sizes from 800px wide and down */
 @media screen and (max-width: 450px){
+        .hero-img-out{
+                height: 200px;
+                width: 100%;
+        }
         h1 {
                 position: relative;
                 font-size: 110%;
@@ -499,5 +524,14 @@ input[type="radio"] {
         .social-networks i{
                 font-size: 180%;
                 color: green;
-            }
+        }
+
+        .form-section {
+                height: 900px;
+        }
+
+        .signup-form {
+                max-width: 500px;
+                left: 3%;
+        }
 }
