@@ -150,7 +150,7 @@ nav a:hover {
         text-align: center;
 }
 
-#misson p {
+.about-text {
         font-size: 18px;
         padding: 5% 4% 5% 4%;
 }
@@ -459,6 +459,14 @@ input[type="radio"] {
                 width: 100%;
         }
 
+        #mission h2 {
+                font-size: medium;
+        }
+
+        .about-text {
+                font-size: 16px;
+        }
+
         .col {
                 flex: 100%;
                 max-width: 90%;
@@ -482,6 +490,15 @@ input[type="radio"] {
                 height: 400px;
                 width: 100%;
         }
+
+        #mission h2 {
+                font-size: medium;
+        }
+
+        .about-text {
+                font-size: 14px;
+        }
+
         .col {
                 flex: 100%;
                 max-width: 100%;
@@ -515,6 +532,15 @@ input[type="radio"] {
                 height: 200px;
                 width: 100%;
         }
+
+        #mission h2 {
+                font-size: small;
+        }
+
+        .about-text {
+                font-size: 10px;
+        }
+
         h1 {
                 position: relative;
                 font-size: 110%;
