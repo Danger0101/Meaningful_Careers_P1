@@ -561,6 +561,10 @@ input[type="radio"] {
         .join-button {
                 right: 5px;
         }
+
+        .ty-img {
+                min-width: 800px;
+        }
 }
 
 /* For small screens sizes from 800px wide and down */
