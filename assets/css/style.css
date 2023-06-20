@@ -459,8 +459,20 @@ input[type="radio"] {
                 width: 100%;
         }
 
+        .testh2 {
+                font-size: medium;
+        }
+
         #mission h2 {
                 font-size: medium;
+        }
+
+        .name h4 {
+                font-size: 14px;
+        }
+
+        .rev-title h6 {
+                font-size: 13px;
         }
 
         .about-text {
@@ -482,6 +494,22 @@ input[type="radio"] {
                 color: green;
                 padding: 2% 5% 0 5%;
         }
+
+        #stress-managment-about h2{
+                font-size: 14px;
+        }
+
+        #stress-managment-about p{
+                font-size: 12px;
+        }
+
+        #self-discovery-about h2 {
+                font-size: 14px;
+        }
+
+        #self-discovery-about p {
+                font-size: 12px;
+        }
 }
 
 /* For small screens sizes from 800px wide and down */
@@ -489,6 +517,10 @@ input[type="radio"] {
         .hero-img-out{
                 height: 400px;
                 width: 100%;
+        }
+
+        .testh2 {
+                font-size: medium;
         }
 
         #mission h2 {
@@ -533,6 +565,10 @@ input[type="radio"] {
                 width: 100%;
         }
 
+        .testh2 {
+                font-size: small;
+        }
+
         #mission h2 {
                 font-size: small;
         }
@@ -568,5 +604,21 @@ input[type="radio"] {
         .signup-form {
                 max-width: 500px;
                 left: 3%;
+        }
+
+        #stress-managment-about h2{
+                font-size: 9px;
+        }
+
+        #stress-managment-about p{
+                font-size: 8px;
+        }
+
+        #self-discovery-about h2 {
+                font-size: 9px;
+        }
+
+        #Self-discovery-about p {
+                font-size: 8px;
         }
 }
