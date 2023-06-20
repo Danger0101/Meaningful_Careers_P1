@@ -556,6 +556,10 @@ input[type="radio"] {
                 left: 5%;
                 padding: 10px;
         }
+
+        .join-button {
+                right: 5px;
+        }
 }
 
 /* For small screens sizes from 800px wide and down */
