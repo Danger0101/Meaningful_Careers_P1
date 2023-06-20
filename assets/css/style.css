@@ -417,6 +417,7 @@ input[type="radio"] {
         padding: 40px 0 0 0;
 }
 
+
 .ty-text-span {
         font-size: 18px;
         display: inline-block;
@@ -608,21 +609,5 @@ input[type="radio"] {
         .signup-form {
                 max-width: 500px;
                 left: 3%;
-        }
-
-        #stress-managment-about h2{
-                font-size: 9px;
-        }
-
-        #stress-managment-about p{
-                font-size: 8px;
-        }
-
-        #self-discovery-about h2 {
-                font-size: 9px;
-        }
-
-        #Self-discovery-about p {
-                font-size: 8px;
         }
 }
