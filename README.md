@@ -83,22 +83,22 @@ The navigation is an animated hamburger icon from fontawesome using css logic on
 
 ## References
 Photo by cottonbro studio: https://www.pexels.com/photo/person-in-black-pants-and-black-shoes-sitting-on-brown-wooden-chair-4101143/
-![Two people in a coaching session](https://www.pexels.com/photo/person-in-black-pants-and-black-shoes-sitting-on-brown-wooden-chair-4101143/)
+![Two people in a coaching session](assets/images/coachingsession.webp)
 
 Photo by Pixabay: https://www.pexels.com/photo/close-up-of-human-hand-327540/
-![Hand out ready to shake hands](https://www.pexels.com/photo/close-up-of-human-hand-327540/)
+![Hand out ready to shake hands](assets/images/reachingforhandshakeinsuit.webp)
 
 Photo by Sindre Fs: https://www.pexels.com/photo/man-wearing-white-crew-neck-vans-top-and-blue-denim-button-up-jacket-1040881/
-![Man in white shirt and denim jacket](https://www.pexels.com/photo/man-wearing-white-crew-neck-vans-top-and-blue-denim-button-up-jacket-1040881/)
+![Man in white shirt and denim jacket](assets/images/maninvansshirtfacingleft.webp)
 
 Photo by Andrea Piacquadio: https://www.pexels.com/photo/man-in-black-suit-holding-leather-briefcase-3778212/
-![Man in black suit holding a breifcase](https://www.pexels.com/photo/man-in-black-suit-holding-leather-briefcase-3778212/)
+![Man in black suit holding a breifcase](assets/images/manandbriefcase.webp)
 
 Photo by Rodolfo Clix: https://www.pexels.com/photo/silhouette-image-of-person-praying-1615776/
-![Silhouette of man wearing barbwire crown](https://www.pexels.com/photo/silhouette-image-of-person-praying-1615776/)
+![Silhouette of man wearing barbwire crown](assets/images/barbwirecrown.webp)
 
 Photo by SHVETS production: https://www.pexels.com/photo/man-falling-carton-boxes-with-negative-words-7203956/
-![Man shoving over box's with words on them](https://www.pexels.com/photo/man-falling-carton-boxes-with-negative-words-7203956/)
+![Man shoving over box's with words on them](assets/images/boxfall.webp)
 
 W3Schools for insperation and building knowledge on subjects covered in course also went to look at it any time I wanted to figure out what a CSS code did. Allowed me to vastly expand what I was able to do with the site although all code was hand written.
 
