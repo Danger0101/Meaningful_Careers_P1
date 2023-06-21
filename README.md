@@ -17,4 +17,4 @@ What I would do diffrently in the future:
 I would make this a fully functioning site including a fully funtioning form not just a page swap to say thanks while doing absolutly nothing. Do a more mobile first aproach whilst I did start that way I don't feel I did wnough. The page layouts could be simpler/flow better. After seeing some other works on reviews/testimonials I would like a more interactive version which you see one at a time and interact to view more. 
 
 Index.html
-![Screenshot](meaningful_index.png)
+![Screenshot](assets/images/meaningfulcareersreadmeimg/meaningful_index.png)
