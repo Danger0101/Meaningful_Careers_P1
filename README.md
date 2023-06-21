@@ -39,6 +39,7 @@ Chrome lighthouse Desktop
 Chrome lighthouse mobile
 ![Screencap offerings.html lighthouse mobile](assets/images/meaningfulcareersreadmeimg/meaningful_offer_lighthouse_mobile.png)
 
+This page is an information page about the two coaching offers provided by 'Meaningful Careers' and is meant to give a more indepth idea as to what each offer will provide them should the persue the coaching offer further.
 
 
 reviews.html
@@ -53,6 +54,8 @@ Chrome lighthouse Desktop
 Chrome lighthouse mobile
 ![Screencap reviews.html lighthouse mobile](assets/images/meaningfulcareersreadmeimg/meaningful_review_lighthouse_mobile.png)
 
+A page to show case past experiances of those who have used the coaching offer and wished to leave a review. This adds more validity and makes the company more reputible to future prospects. As well as allow them to share in the success of others and see the changes its made.
+
 
 signup.html
 
@@ -64,7 +67,11 @@ Chrome lighthouse Desktop
 Chrome lighthouse mobile
 ![Screencap signup.html lighthouse mobile](assets/images/meaningfulcareersreadmeimg/meaningful_signup_lighthouse_mobile.png)
 
+For those who feel the desire to proceed further into geting a coaching session we have a signup page. Theoretically this is where the magic starts to happen. A user would input all the information on this page and register their interest and this will go to a database and pop up to one of the coachs to give the prospect a call or email. With more information about the coaching offer of their choosing. This is where the coach will walk them through the offering and pitch them on it in a way that works for them.
+
 
 thankyou.html
 
 ![Screencap thankyou.html](assets/images/meaningfulcareersreadmeimg/meaningful_thanks.png)
+
+This is the landing page after a user submits their form idealy once javascript would be added this would change a good bit from this state I would like it to propegate a more personalized messge to the user and provide them an estimate time till they can recieve the call or a link to book a call.
