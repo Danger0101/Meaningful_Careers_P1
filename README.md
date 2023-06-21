@@ -16,5 +16,55 @@ What I would do diffrently in the future:
 
 I would make this a fully functioning site including a fully funtioning form not just a page swap to say thanks while doing absolutly nothing. Do a more mobile first aproach whilst I did start that way I don't feel I did wnough. The page layouts could be simpler/flow better. After seeing some other works on reviews/testimonials I would like a more interactive version which you see one at a time and interact to view more. 
 
-Index.html
-![Screenshot](assets/images/meaningfulcareersreadmeimg/meaningful_index.png)
+Index.html:
+
+![Screencap index.html](assets/images/meaningfulcareersreadmeimg/meaningful_index.png)
+
+Chrome lighthouse desktop
+![Screencap index.html lighthouse desktop](assets/images/meaningfulcareersreadmeimg/meaningful_lighthouse_desktop.png)
+
+Chrome mobile lighthouse
+![Screencap index.html lighthouse mobile](assets/images/meaningfulcareersreadmeimg/meaningful_lighthouse_mobile.png)
+
+Landing page for the site where a user first ends up and it allows them to get an understanding of what meaningful careers is about and what sort of value they might be able to obtain from it with out needing to go into lots of detail. Has a mission statement and about split into three scections.
+
+
+offerings.html
+
+![Screencap offerings.html](assets/images/meaningfulcareersreadmeimg/meaningful_offers.png)
+
+Chrome lighthouse Desktop
+![Screencap offerings.html lighthouse desktop](assets/images/meaningfulcareersreadmeimg/meaningful_offer_lighthouse_desktop.png)
+
+Chrome lighthouse mobile
+![Screencap offerings.html lighthouse mobile](assets/images/meaningfulcareersreadmeimg/meaningful_offer_lighthouse_mobile.png)
+
+
+
+reviews.html
+
+![Screencap reviews.html 1](assets/images/meaningfulcareersreadmeimg/meaningful_reviews.png)
+
+![Screencap reviews.html showcasing navbar dropdown](assets/images/meaningfulcareersreadmeimg/meaningful_reviews2.png)
+
+Chrome lighthouse Desktop
+![Screencap reviews.html lighthouse desktop](assets/images/meaningfulcareersreadmeimg/meaningful_review_lighthouse_desktop.png)
+
+Chrome lighthouse mobile
+![Screencap reviews.html lighthouse mobile](assets/images/meaningfulcareersreadmeimg/meaningful_review_lighthouse_mobile.png)
+
+
+signup.html
+
+![Screencap signup.html](assets/images/meaningfulcareersreadmeimg/meaningful_signup.png)
+
+Chrome lighthouse Desktop
+![Screencap signup.html lighthouse desktop](assets/images/meaningfulcareersreadmeimg/meaningful_signup_lighthouse_desktop.png)
+
+Chrome lighthouse mobile
+![Screencap signup.html lighthouse mobile](assets/images/meaningfulcareersreadmeimg/meaningful_signup_lighthouse_mobile.png)
+
+
+thankyou.html
+
+![Screencap thankyou.html](assets/images/meaningfulcareersreadmeimg/meaningful_thanks.png)
