@@ -75,3 +75,31 @@ For those who feel the desire to proceed further into geting a coaching session 
 ![Screencap thankyou.html](assets/images/meaningfulcareersreadmeimg/meaningful_thanks.png)
 
 This is the landing page after a user submits their form idealy once javascript would be added this would change a good bit from this state I would like it to propegate a more personalized messge to the user and provide them an estimate time till they can recieve the call or a link to book a call.
+
+## Navigation
+![Screencap reviews.html showcasing navbar dropdown](assets/images/meaningfulcareersreadmeimg/meaningful_reviews2.png)
+
+The navigation is an animated hamburger icon from fontawesome using css logic on a hident check box when checked it opens and animates the dropdown menu. To keep it simple and uniform it remains the same at all page sizes and even on all pages it never changes so you can find what your looking for with ease.
+
+## References
+Photo by cottonbro studio: https://www.pexels.com/photo/person-in-black-pants-and-black-shoes-sitting-on-brown-wooden-chair-4101143/
+![Two people in a coaching session](https://www.pexels.com/photo/person-in-black-pants-and-black-shoes-sitting-on-brown-wooden-chair-4101143/)
+
+Photo by Pixabay: https://www.pexels.com/photo/close-up-of-human-hand-327540/
+![Hand out ready to shake hands](https://www.pexels.com/photo/close-up-of-human-hand-327540/)
+
+Photo by Sindre Fs: https://www.pexels.com/photo/man-wearing-white-crew-neck-vans-top-and-blue-denim-button-up-jacket-1040881/
+![Man in white shirt and denim jacket](https://www.pexels.com/photo/man-wearing-white-crew-neck-vans-top-and-blue-denim-button-up-jacket-1040881/)
+
+Photo by Andrea Piacquadio: https://www.pexels.com/photo/man-in-black-suit-holding-leather-briefcase-3778212/
+![Man in black suit holding a breifcase](https://www.pexels.com/photo/man-in-black-suit-holding-leather-briefcase-3778212/)
+
+Photo by Rodolfo Clix: https://www.pexels.com/photo/silhouette-image-of-person-praying-1615776/
+![Silhouette of man wearing barbwire crown](https://www.pexels.com/photo/silhouette-image-of-person-praying-1615776/)
+
+Photo by SHVETS production: https://www.pexels.com/photo/man-falling-carton-boxes-with-negative-words-7203956/
+![Man shoving over box's with words on them](https://www.pexels.com/photo/man-falling-carton-boxes-with-negative-words-7203956/)
+
+W3Schools for insperation and building knowledge on subjects covered in course also went to look at it any time I wanted to figure out what a CSS code did. Allowed me to vastly expand what I was able to do with the site although all code was hand written.
+
+Code Institute 'Love Running' Project for form inspiration I took the basic layout of what I had to do in the challenge and applied it to this project.
