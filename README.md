@@ -89,16 +89,11 @@ The navigation is an animated hamburger icon from fontawesome using css logic on
 ## Validations
 
 ### CSS
+![W3 CSS Validation Image](assets/images/meaningfulcareersreadmeimg/w3cssvalidation.png)
 
-#### index.html
 
-#### offerings.html
-
-#### reviews.html
-
-#### signup.html
-
-#### thankyou.html
+### HTML
+![W3 HTML Validation Image](assets/images/meaningfulcareersreadmeimg/w3htmlvalidation.png)
 
 
 ## References
