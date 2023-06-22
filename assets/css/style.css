@@ -7,6 +7,7 @@ font-family: 'Oswald', sans-serif;
 :root {
         --background: rgba(112, 150, 69, 0.69);
         --offerbg: rgba(112, 150, 60, 0.69);
+        --signup-text: rgba(144, 241, 7, 0.69);
 }
 
 * {
@@ -199,7 +200,7 @@ footer {
         position: relative;
         text-align: center;
         margin: 2% 0 0 5%;
-        padding-bottom: 50p;
+        padding: 5px 20px;
         text-shadow: 1px 1px 1px black, 5px 5px 10px rgba(105, 105, 105, 0.4);
 }
 
@@ -389,8 +390,7 @@ input[type="radio"] {
         display: inline;
 }
     
-.join-button:hover {	
-        background-color: rbga(112, 180, 20, 1);	
+.join-button:hover {		
         color: rgb(10, 255, 10);
 }
 
