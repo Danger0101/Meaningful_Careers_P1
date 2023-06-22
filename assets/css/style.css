@@ -296,6 +296,10 @@ footer {
         box-shadow: 1px 1px 1px black, 3px 3px 5px grey;
 }
 
+.testomonials {
+        padding-top: 60px;
+}
+
 .testimonial {
         background-color: #fafafa;
         padding: 30px;
