@@ -1,5 +1,10 @@
 # Project Meaningful Careers Website
 
+## What is this meant to show case
+
+For the first of my five Code Institute projects it is meant to show case my HTML and CSS skills taught through out the first part of the course. So some core functunality for a full and completely working website will be missing as there is quite litterally no JavaScript its pure HTML and CSS. I do hope you enjoy my first ever website I built completely from the ground up.
+
+
 ## Purpose and Value:
 
 When I was coming up with the concept of this project I remembered back to when I almost started a coaching program of my own and well it sticks with me to this day. I wanted to build a site men and women, 18 to 30 years of age that can help them find the balance they need and deserve through a caterted coaching program. This site would involve two offers one on 'Stress Managment' as this is a skill that every one needs to be in a successful career and maintain a healthy work life balance. The other offer being 'Self Discovery' as knowing what your ture desires are in life is the biggest step forward towards making them a reality.
@@ -81,6 +86,21 @@ This is the landing page after a user submits their form idealy once javascript 
 
 The navigation is an animated hamburger icon from fontawesome using css logic on a hident check box when checked it opens and animates the dropdown menu. To keep it simple and uniform it remains the same at all page sizes and even on all pages it never changes so you can find what your looking for with ease.
 
+## Validations
+
+### CSS
+
+#### index.html
+
+#### offerings.html
+
+#### reviews.html
+
+#### signup.html
+
+#### thankyou.html
+
+
 ## References
 Photo by cottonbro studio: https://www.pexels.com/photo/person-in-black-pants-and-black-shoes-sitting-on-brown-wooden-chair-4101143/
 ![Two people in a coaching session](assets/images/coachingsession.webp)
@@ -100,6 +120,6 @@ Photo by Rodolfo Clix: https://www.pexels.com/photo/silhouette-image-of-person-p
 Photo by SHVETS production: https://www.pexels.com/photo/man-falling-carton-boxes-with-negative-words-7203956/
 ![Man shoving over box's with words on them](assets/images/boxfall.webp)
 
-W3Schools for insperation and building knowledge on subjects covered in course also went to look at it any time I wanted to figure out what a CSS code did. Allowed me to vastly expand what I was able to do with the site although all code was hand written.
+W3Schools for insperation and building knowledge on subjects covered in course also went to look at it any time I wanted to figure out what a CSS code did. Allowed me to vastly expand what I was able to do with the site although all code was hand written after initial Code instute templete.
 
 Code Institute 'Love Running' Project for form inspiration I took the basic layout of what I had to do in the challenge and applied it to this project.
