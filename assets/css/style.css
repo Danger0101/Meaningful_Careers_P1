@@ -126,7 +126,7 @@ nav a:hover {
         height: auto;
         width: 100%;
 
-        /* Animates zoom effect on loading the page */
+        /* Animates hero-img with a zoom effect upon loading the page */
         
         animation-name: main-img-zoom;
         animation-duration: 5s;
@@ -326,7 +326,7 @@ footer {
         font-size: 12px;
 }
 
-/* Form */
+/* Form with inspiration from the love running project */
 
 .form-section {
         clear: left;
@@ -431,7 +431,6 @@ input[type="radio"] {
 /* Media Querries */
 
 /* For large to medium screens sizes from 1200px wide and down */
-
 @media screen and (min-width: 1201px){  
         .hero-img {
                 height: 600px;
@@ -560,10 +559,6 @@ input[type="radio"] {
 
         .join-button {
                 right: 5px;
-        }
-
-        .ty-img {
-                min-width: 800px;
         }
 }
 
