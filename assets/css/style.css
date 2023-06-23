@@ -120,12 +120,13 @@ nav a:hover {
         height: 600px;
         width: 100%;
         position: relative;
-        background-size: cover;
+        overflow: hidden;
 }
 
 .hero-img{
-        height: auto;
+        height: 600px;
         width: 100%;
+        background: url("../images/coachingsession.webp") no-repeat center center;
 
         /* Animates hero-img with a zoom effect upon loading the page */
         
@@ -434,15 +435,6 @@ input[type="radio"] {
 
 /* Media Querries */
 
-/* For large to medium screens sizes from 1200px wide and down */
-@media screen and (min-width: 1201px){  
-        .hero-img {
-                height: 600px;
-                width: 86%;
-                margin: 0 7%;
-        }
-}
-
 @media screen and (max-width: 1200px){  
         body p {
                 font-size: 16px;
@@ -460,7 +452,10 @@ input[type="radio"] {
 @media screen and (max-width: 950px){
         .hero-img-out{
                 height: 550px;
-                width: 100%;
+        }
+
+        .hero-img-out {
+                height: 550px;
         }
 
         .testh2 {
@@ -518,9 +513,12 @@ input[type="radio"] {
 
 /* For small screens sizes from 800px wide and down */
 @media screen and (max-width: 800px){
-        .hero-img-out{
+        .hero-img-out {
                 height: 400px;
-                width: 100%;
+        }
+
+        .hero-img {
+                height: 400px;
         }
 
         .testh2 {
@@ -568,9 +566,12 @@ input[type="radio"] {
 
 /* For small screens sizes from 800px wide and down */
 @media screen and (max-width: 450px){
-        .hero-img-out{
+        .hero-img-out {
                 height: 200px;
-                width: 100%;
+        }
+
+        .hero-img {
+                height: 200px;
         }
 
         .testh2 {
