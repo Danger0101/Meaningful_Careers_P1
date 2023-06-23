@@ -38,10 +38,10 @@ Landing page for the site where a user first ends up and it allows them to get a
 
 ![Screencap offerings.html](assets/images/meaningfulcareersreadmeimg/meaningful_offers.png)
 
-###Chrome lighthouse Desktop
+### Chrome lighthouse Desktop
 ![Screencap offerings.html lighthouse desktop](assets/images/meaningfulcareersreadmeimg/meaningful_offer_lighthouse_desktop.png)
 
-###Chrome lighthouse mobile
+### Chrome lighthouse mobile
 ![Screencap offerings.html lighthouse mobile](assets/images/meaningfulcareersreadmeimg/meaningful_offer_lighthouse_mobile.png)
 
 This page is an information page about the two coaching offers provided by 'Meaningful Careers' and is meant to give a more indepth idea as to what each offer will provide them should the persue the coaching offer further.
