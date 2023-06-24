@@ -14,8 +14,15 @@ font-family: 'Oswald', sans-serif;
         margin: 0;
         padding: 0;
         border: 0;
+        box-sizing: 0;
 }
 
+/* Added based on feedback of my mentor Aleksei Konovalov */
+html {
+        scroll-behavior: smooth;
+    }
+/* end of feedback */
+/* index.html */
 body {
         text-align: center;
 }
@@ -30,7 +37,6 @@ body p {
 }
 
 /* Navigation Style */
-
 header {
         font-size: 100%;
         font-family: 'Oswald', sans-serif;
@@ -114,7 +120,6 @@ nav a:hover {
 }
 
 /* Main image and cover text */
-
 .hero-img-out{
         overflow: hidden;
         height: 600px;
@@ -127,6 +132,8 @@ nav a:hover {
         height: 600px;
         width: 100%;
         background: url("../images/coachingsession.webp") no-repeat center center;
+        background-size: cover;
+        background-position-y: 25%;
 
         /* Animates hero-img with a zoom effect upon loading the page */
         
@@ -136,13 +143,14 @@ nav a:hover {
 }
 
 /* Creates the level of zoom for hero image */
-
 @keyframes main-img-zoom {
         from{
+                /* Image starts at 90% zoom */
                 transform: scale(0.9);
         }
         
         to{
+                /* Image finishes at 100% zoom */
                 transform: scale(1);
         }
 }
@@ -150,6 +158,8 @@ nav a:hover {
 #mission {
         font-family: 'Biryani', sans-serif;
         text-align: center;
+        max-width: 1200px;
+        margin: auto auto;
 }
 
 .about-text {
@@ -208,9 +218,11 @@ footer {
 #stress-managment-about {
         height: 90%;
         width: 90%;
+        max-width: 1200px;
         border: 3px solid rgb(0, 80, 0);
         background-color: var(--offerbg);
         border-radius: 1%;
+        margin: auto;
 }
 
 #stress-managment-about h2 {
@@ -232,7 +244,8 @@ footer {
 #self-discovery-about {
         height: 90%;
         width: 90%;
-        margin-bottom: 20px;
+        max-width: 1200px;
+        margin: auto auto 20px auto;
         text-align: center;
         border: 3px solid rgb(0, 80, 0);
         background-color: var(--offerbg);
@@ -434,7 +447,6 @@ input[type="radio"] {
 }
 
 /* Media Querries */
-
 @media screen and (max-width: 1200px){  
         body p {
                 font-size: 16px;
@@ -447,14 +459,14 @@ input[type="radio"] {
                 padding: 2% 5% 0 5%;
             }
 }
-    
+
 /* For medium screens sizes from 950px wide and down */
 @media screen and (max-width: 950px){
         .hero-img-out{
                 height: 550px;
         }
 
-        .hero-img-out {
+        .hero-img {
                 height: 550px;
         }
 
