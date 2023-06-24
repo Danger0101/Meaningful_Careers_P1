@@ -5,6 +5,7 @@ font-family: 'Biryani', sans-serif;
 font-family: 'Oswald', sans-serif; 
 */
 :root {
+        /* sets a resuable color value that can be changed in a single location makes future updates easier and quicker as wont need to change each location its used just change it here.*/
         --background: rgba(112, 150, 69, 0.69);
         --offerbg: rgba(112, 150, 60, 0.69);
         --signup-text: rgba(144, 241, 7, 0.69);
@@ -134,7 +135,6 @@ nav a:hover {
         background: url("../images/coachingsession.webp") no-repeat center center;
         background-size: cover;
         background-position-y: 25%;
-
         /* Animates hero-img with a zoom effect upon loading the page */
         animation-name: main-img-zoom;
         animation-duration: 5s;
@@ -203,7 +203,6 @@ footer {
 .social-networks i:visited {
         color: yellowgreen;
 }
-
 /* offerings.html css */
 .off-out {
         position: relative;
@@ -266,7 +265,6 @@ footer {
         padding: 0 20px 5px 20px;
         text-transform: capitalize;
 }
-
 /* Review.html CSS */
 .testimonials {
         padding: 4px 0;
