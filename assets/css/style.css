@@ -126,7 +126,7 @@ nav a:hover {
         width: 100%;
         position: relative;
         overflow: hidden;
-}
+} 
 
 .hero-img{
         height: 600px;
@@ -136,7 +136,6 @@ nav a:hover {
         background-position-y: 25%;
 
         /* Animates hero-img with a zoom effect upon loading the page */
-        
         animation-name: main-img-zoom;
         animation-duration: 5s;
         animation-fill-mode: forwards;
@@ -206,7 +205,6 @@ footer {
 }
 
 /* offerings.html css */
-
 .off-out {
         position: relative;
         text-align: center;
@@ -270,7 +268,6 @@ footer {
 }
 
 /* Review.html CSS */
-
 .testimonials {
         padding: 4px 0;
         text-align: center;
@@ -344,9 +341,7 @@ footer {
 .review-text {
         font-size: 12px;
 }
-
 /* Form with inspiration from the love running project */
-
 .form-section {
         clear: left;
         background: url("../images/boxfall.webp") no-repeat center;
@@ -413,7 +408,6 @@ input[type="radio"] {
 }
 
 /* thankyou.html css */
-
 .ty-outer {
         position: relative;
         text-align: center;
@@ -445,7 +439,6 @@ input[type="radio"] {
         height: 100%;
         width: 100%;
 }
-
 /* Media Querries */
 @media screen and (max-width: 1200px){  
         body p {
