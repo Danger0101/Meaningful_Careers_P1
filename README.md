@@ -191,7 +191,7 @@ Used github pages [View Site here](https://danger0101.github.io/Meaningful_Caree
 
 - Code Institute 'Love Running' Project for form inspiration I took the basic layout of what I had to do in the challenge and applied it to this project.
 
-- Mentor Aleksei Konovalov: (github - https://github.com/lexach91) Gave me tips and support when needed helped me solve a few issues with heroimage, And some pointers and better responsiveness at higher resolutions (above standard users 1080p)
+- Mentor Aleksei Konovalov: (github - https://github.com/lexach91) Gave me tips and support when needed helped me solve a few issues with heroimage, favicon, And some pointers and better responsiveness at higher resolutions. (above standard users 1080p)
 
 - My wife whos been supper supportive of this change in career for me and just being out right amazing we will get her into this one way or another I am sure.
 
