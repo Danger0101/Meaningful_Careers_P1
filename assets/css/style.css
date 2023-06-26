@@ -263,6 +263,10 @@ footer {
         padding: 65px 4px;
         text-align: center;
 }
+/* testomnial title text */
+.testh2 {
+        font-size: 24px;
+}
 /* testomonial inner style */
 .inner {
         max-width: 1200px;
@@ -488,11 +492,11 @@ input[type="radio"] {
                 padding: 2% 5% 0 5%;
         }
 
-        #stress-managment-about h2{
+        #stress-managment-about h2 {
                 font-size: 18px;
         }
 
-        #stress-managment-about p{
+        #stress-managment-about p {
                 font-size: 16px;
         }
 
@@ -524,6 +528,14 @@ input[type="radio"] {
         }
 
         .about-text {
+                font-size: 14px;
+        }
+
+        .name h3 {
+                font-size: 15px;
+        }
+
+        .rev-title h4 {
                 font-size: 14px;
         }
 
