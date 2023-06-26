@@ -186,3 +186,10 @@ Used github pages [View Site here](https://danger0101.github.io/Meaningful_Caree
 - My wife whos been supper supportive of this change in career for me and just being out right amazing we will get her into this one way or another I am sure.
 
 - Code Institute for providing an excelent accelerated learning platform worth every penny.
+---
+## Future feature ideas
+- *Leave A Review* - where users can leave a review and it is added to site automatically.
+- *Automated Email* - Send out an automated email after registering interest letting the user know when to expect contact from a coach. Include some resources in the mean time.
+- *Fully Functioning Form* - Add user data to a a secure data base which will allocate to coaches to contact.
+- *User Account Login and member pages* - A member area possibly a way of communicating with coaches and a schedule meeting feature ect.
+- *Funnel* - Possibly if deemed benificial a funnel system that incrimentally provides more user information and possible upsells.
