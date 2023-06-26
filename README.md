@@ -104,7 +104,7 @@ Meaningful Careers allows people to learn about the company and and its offering
 ![Screencap signup.html lighthouse mobile](assets/images/meaningfulcareersreadmeimg/meaningful_signup_lighthouse_mobile.png)
 
 ## Deployment
-Used github pages ![View Site here]()
+Used github pages ![View Site here](https://danger0101.github.io/Meaningful_Careers_P1/?)
 
 ## Technology used
 - HTML
@@ -134,22 +134,22 @@ Used github pages ![View Site here]()
 
 ## Credits
 ** Images **
-- Photo by cottonbro studio: https://www.pexels.com/photo/person-in-black-pants-and-black-shoes-sitting-on-brown-wooden-chair-4101143/
+- ![Photo by cottonbro studio:](https://www.pexels.com/photo/person-in-black-pants-and-black-shoes-sitting-on-brown-wooden-chair-4101143/)
 ![Two people in a coaching session](assets/images/coachingsession.webp)
 
-- Photo by Pixabay: https://www.pexels.com/photo/close-up-of-human-hand-327540/
+- ![Photo by Pixabay:](https://www.pexels.com/photo/close-up-of-human-hand-327540/)
 ![Hand out ready to shake hands](assets/images/reachingforhandshakeinsuit.webp)
 
-- Photo by Sindre Fs: https://www.pexels.com/photo/man-wearing-white-crew-neck-vans-top-and-blue-denim-button-up-jacket-1040881/
+- ![Photo by Sindre Fs:](https://www.pexels.com/photo/man-wearing-white-crew-neck-vans-top-and-blue-denim-button-up-jacket-1040881/)
 ![Man in white shirt and denim jacket](assets/images/maninvansshirtfacingleft.webp)
 
-- Photo by Andrea Piacquadio: https://www.pexels.com/photo/man-in-black-suit-holding-leather-briefcase-3778212/
+- ![Photo by Andrea Piacquadio:](https://www.pexels.com/photo/man-in-black-suit-holding-leather-briefcase-3778212/)
 ![Man in black suit holding a breifcase](assets/images/manandbriefcase.webp)
 
-- Photo by Rodolfo Clix: https://www.pexels.com/photo/silhouette-image-of-person-praying-1615776/
+- ![Photo by Rodolfo Clix:](https://www.pexels.com/photo/silhouette-image-of-person-praying-1615776/)
 ![Silhouette of man wearing barbwire crown](assets/images/barbwirecrown.webp)
 
-- Photo by SHVETS production: https://www.pexels.com/photo/man-falling-carton-boxes-with-negative-words-7203956/
+- ![Photo by SHVETS production:](https://www.pexels.com/photo/man-falling-carton-boxes-with-negative-words-7203956/)
 ![Man shoving over box's with words on them](assets/images/boxfall.webp)
 
 **Code related**
