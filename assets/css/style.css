@@ -144,18 +144,6 @@ nav a:hover {
         animation-duration: 5s;
         animation-fill-mode: forwards;
 }
-/* Creates the level of zoom for hero image */
-@keyframes main-img-zoom {
-        from{
-                /* Image starts at 90% zoom */
-                transform: scale(0.9);
-        }
-        
-        to{
-                /* Image finishes at 100% zoom */
-                transform: scale(1);
-        }
-}
 /* footer styling */
 footer {
         float: inline-end;
@@ -347,7 +335,7 @@ footer {
         margin: 200px 12px 0 0;
         color: #fff;
         background-color: rgba(60, 60, 60, 0.8);
-        max-width: 400px;
+        max-width: 550px;
         left: 10%;
         position: absolute;
         padding: 30px;
@@ -431,6 +419,18 @@ input[type="radio"] {
 .ty-img img {
         height: 100%;
         width: 100%;
+}
+/* Creates the level of zoom for hero image */
+@keyframes main-img-zoom {
+        from{
+                /* Image starts at 90% zoom */
+                transform: scale(0.9);
+        }
+        
+        to{
+                /* Image finishes at 100% zoom */
+                transform: scale(1);
+        }
 }
 /* Media Querries */
 /* for larger screen sizes 1200px wide and down */
@@ -567,6 +567,7 @@ input[type="radio"] {
                 max-width: 400px;
                 left: 5%;
                 padding: 10px;
+                border-radius: 5% 10%;
         }
 
         .join-button {
@@ -623,5 +624,6 @@ input[type="radio"] {
         .signup-form {
                 max-width: 500px;
                 left: 3%;
+                border-radius: 5% 5%;
         }
 }
