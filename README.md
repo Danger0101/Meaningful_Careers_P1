@@ -185,6 +185,8 @@ Used github pages [View Site here](https://danger0101.github.io/Meaningful_Caree
 ![Man shoving over box's with words on them](assets/images/boxfall.webp)
 
 **Code related**
+- [dcode](https://www.youtube.com/watch?v=mntgaH5x-GQ&t=95s) for how to add a colored navigation bar.
+
 - W3Schools for insperation and building knowledge on subjects covered in course also went to look at it any time I wanted to figure out what a CSS code did. Allowed me to vastly expand what I was able to do with the site although all code was hand written after initial Code instute templete.
 
 - Code Institute 'Love Running' Project for form inspiration I took the basic layout of what I had to do in the challenge and applied it to this project.
