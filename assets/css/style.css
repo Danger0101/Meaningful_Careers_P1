@@ -1,16 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Biryani:wght@300&family=Oswald:wght@500&display=swap');
-/*
-Font family rules
-font-family: 'Biryani', sans-serif;
-font-family: 'Oswald', sans-serif; 
-*/
 :root {
         /* sets a resuable color value that can be changed in a single location makes future updates easier and quicker as wont need to change each location its used just change it here.*/
         --background: rgba(112, 150, 69, 0.69);
         --offerbg: rgba(112, 150, 60, 0.69);
         --signup-text: rgba(144, 241, 7, 0.69);
 }
-
+/* Added border and box-sizing based on feedback of my mentor Aleksei Konovalov  */
 * {
         margin: 0;
         padding: 0;
