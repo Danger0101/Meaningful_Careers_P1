@@ -78,12 +78,19 @@ Meaningful Careers allows people to learn about the company and and its offering
 
 ## Validation testing
 ### CSS
+-checked with [W3 CSS Validator](https://jigsaw.w3.org/css-validator/) completed with no issues found.
 
 ![W3 CSS Validation Image](assets/images/meaningfulcareersreadmeimg/w3cssvalidation.png)
 
 ### HTML
+- checked with [W3 HTML Validator](https://validator.w3.org/) on all pages with no errors or warnings.
 
 ![W3 HTML Validation Image](assets/images/meaningfulcareersreadmeimg/w3htmlvalidation.png)
+
+### Contrast
+- Checked all pages with [A11Y contrast checker](https://color.a11y.com/) Cameback with no issues.
+
+![Contrast checker Image](assets/images/meaningfulcareersreadmeimg/contrastcheck.png)
 
 ### index.html
 **Chrome lighthouse desktop**
@@ -132,7 +139,10 @@ Used github pages [View Site here](https://danger0101.github.io/Meaningful_Caree
 - Visual Studios Code (VSCode)
 - Github
 - Hypervisor
-- Git 
+- Git
+- Gyzo
+- MS Paint
+- Gimp version 2.10.22
 
 ## Wireframes
 ### index.html
