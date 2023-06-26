@@ -15,7 +15,7 @@ Meaningful Careers allows people to learn about the company and and its offering
 ## Features
 ### Navbar
 
-![Screencap reviews.html showcasing navbar dropdown](assets/images/meaningfulcareersreadmeimg/meaningful_reviews2.png)
+![Screencap reviews.html showcasing navbar dropdown](assets/images/meaningfulcareersreadmeimg/navbar.png)
 
 - The navigation is an animated hamburger icon from fontawesome using css logic on a hident check box when checked it opens and animates the dropdown menu. To keep it simple and uniform it remains the same at all page sizes and even on all pages it never changes so you can find what your looking for with ease.
 
@@ -23,10 +23,14 @@ Meaningful Careers allows people to learn about the company and and its offering
 ### hero image
 - provides a looking glass into the feel of profesionalism provided by Meaningful careers coaching programs.
 
+![Image of hero image](assets/images/meaningfulcareersreadmeimg/heroimage.png)
+
 ---
 ### footer
 - Provides contact information for Meaningful Careers
 - Has links to the relavent social media accounts
+
+![Image of footer](assets/images/meaningfulcareersreadmeimg/footer.png)
 
 ---
 ### index.html
