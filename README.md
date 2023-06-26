@@ -54,8 +54,6 @@ Meaningful Careers allows people to learn about the company and and its offering
 
 ![Screencap reviews.html 1](assets/images/meaningfulcareersreadmeimg/meaningful_reviews.png)
 
-![Screencap reviews.html showcasing navbar dropdown](assets/images/meaningfulcareersreadmeimg/meaningful_reviews2.png)
-
 - A page to show case past experiances of those who have used the coaching offer and wished to leave a review. This adds more validity and makes the company more reputible to future prospects. As well as allow them to share in the success of others and see the changes its made.
 
 ---
