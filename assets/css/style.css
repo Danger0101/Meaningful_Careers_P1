@@ -217,7 +217,7 @@ footer {
 #stress-managment-about h2 {
         font-family: 'Oswald', sans-serif;
         font-size: 26px;
-        Color: rgb(0, 100, 1);
+        Color: bisque;
         padding: 10px;
         text-transform: uppercase;
 }
@@ -245,7 +245,7 @@ footer {
         font-family: 'Oswald', sans-serif;
         font-size: 26px;
         position: relative;
-        Color: rgb(0, 100, 1);
+        Color: bisque;
         padding: 10px;
         text-transform: uppercase;
 }
