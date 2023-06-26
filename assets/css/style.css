@@ -287,8 +287,8 @@ footer {
 /* testomonial column style */
 .col {
         text-align: center;
-        flex: 30%;
-        max-width: 30%;
+        flex: 32%;
+        max-width: 32%;
         display: inline-block;
         box-sizing: border-box;
         margin: 5px 10px 30px 5px;
@@ -317,6 +317,7 @@ footer {
 /* testomonial title style */
 .rev-title {
         padding: 5px;
+        font-size: 19px;
 }
 /* testomonial review star rating style */
 .stars {
@@ -326,7 +327,7 @@ footer {
 }
 /* testomonial review paragraph style */
 .review-text {
-        font-size: 12px;
+        font-size: 14px;
 }
 /* Form with inspiration from the love running project */
 /* form background image styling */
@@ -452,19 +453,19 @@ input[type="radio"] {
         }
 
         .testh2 {
-                font-size: medium;
+                font-size: 20px;
         }
 
         #mission h2 {
-                font-size: medium;
+                font-size: 18px;
         }
 
-        .name h5 {
-                font-size: 14px;
+        .name h3 {
+                font-size: 18px;
         }
 
-        .rev-title h6 {
-                font-size: 13px;
+        .rev-title h4 {
+                font-size: 17px;
         }
 
         .about-text {
@@ -477,7 +478,7 @@ input[type="radio"] {
         }
 
         body p {
-                font-size: 15px;
+                font-size: 16px;
                 padding: 0 8px 0 8px;
         }
 
@@ -488,19 +489,19 @@ input[type="radio"] {
         }
 
         #stress-managment-about h2{
-                font-size: 14px;
+                font-size: 18px;
         }
 
         #stress-managment-about p{
-                font-size: 12px;
+                font-size: 16px;
         }
 
         #self-discovery-about h2 {
-                font-size: 14px;
+                font-size: 18px;
         }
 
         #self-discovery-about p {
-                font-size: 12px;
+                font-size: 16px;
         }
 }
 
@@ -515,15 +516,19 @@ input[type="radio"] {
         }
 
         .testh2 {
-                font-size: medium;
+                font-size: 16px;
         }
 
         #mission h2 {
-                font-size: medium;
+                font-size: 16px;
         }
 
         .about-text {
                 font-size: 14px;
+        }
+
+        .review-text {
+                font-size: 12px;
         }
 
         .col {
@@ -572,11 +577,11 @@ input[type="radio"] {
         }
 
         #mission h2 {
-                font-size: small;
+                font-size: 14px;
         }
 
         .about-text {
-                font-size: 10px;
+                font-size: 12px;
         }
 
         h1 {
@@ -586,7 +591,7 @@ input[type="radio"] {
         }
 
         body p {
-                font-size: 16px;
+                font-size: 12px;
                 padding: 0 8px 0 8px;
         }
         
