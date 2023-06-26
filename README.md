@@ -1,120 +1,164 @@
-# Project Meaningful Careers Website
+# Meaningful Careers
+Meaningful Careers allows people to learn about the company and and its offerings while providing those interested in perssuing more information by registering their interest and allowing a representative to reach out to them to provide more information and to see how Meaningful Careers can best suit their needs.
 
-## What is this meant to show case
+---
+## User Stories
+- As a first time visitor, I want to understand the website and get to know what its all about.
+- As a first time visitor, I want to be able to navigate around the webpage's with ease and find what I am looking for quickly.
+- As a first time visitor, I want to see some reviews or testimonials to understand the value I can achieve from the website.
+- As a user, I want to have a form I can fillout to recieve more information on the offerings.
+- As a user, I want to be able to get in contact with Meaningful Careers on my own time.
+- As a user, I want to be directed to a page once I register interest to show its worked.
+- As a mobile user, I want the website to be responsive and leggible on my devices.
+- As a desktop user, I want the information to be readable and not streched out across the page.
 
-For the first of my five Code Institute projects it is meant to show case my HTML and CSS skills taught through out the first part of the course. So some core functunality for a full and completely working website will be missing as there is quite litterally no JavaScript its pure HTML and CSS. I do hope you enjoy my first ever website I built completely from the ground up.
+## Features
+### Navbar
+![Screencap reviews.html showcasing navbar dropdown](assets/images/meaningfulcareersreadmeimg/meaningful_reviews2.png)
 
+- The navigation is an animated hamburger icon from fontawesome using css logic on a hident check box when checked it opens and animates the dropdown menu. To keep it simple and uniform it remains the same at all page sizes and even on all pages it never changes so you can find what your looking for with ease.
 
-## Purpose and Value:
+---
+### hero image
+- provides a looking glass into the feel of profesionalism provided by Meaningful careers coaching programs.
 
-When I was coming up with the concept of this project I remembered back to when I almost started a coaching program of my own and well it sticks with me to this day. I wanted to build a site men and women, 18 to 30 years of age that can help them find the balance they need and deserve through a caterted coaching program. This site would involve two offers one on 'Stress Managment' as this is a skill that every one needs to be in a successful career and maintain a healthy work life balance. The other offer being 'Self Discovery' as knowing what your ture desires are in life is the biggest step forward towards making them a reality.
+---
+### footer
+- Provides contact information for Meaningful Careers
+- Has links to the relavent social media accounts
 
-So what I wanted to bring was a way for those in the target of early to mid career a offering that can get them in the fast lane to ensureing their success and having a coach is a great way to do it and as my old mentor used to mention there is a reason most CEO's have regular meetings with a career, life, or  even bussiness coach. You need it to be and stay successful with out the burnout. So I wanted to bring something that triggers their desire to be the best they can. I feel while there is a long way to go if this idea where to come to life this is a great step forward in making them feel the way I would hope.
-
-## The Development:
-
-The site initially was only going to be 3 pages an index.html, signup.html, and reviews.html. I started building it in a seperate repository to this one around late May 2023 right after I finished learning HTML and CSS through Code Institute. I had to remake the repository as the main one I felt had way to large of a space between commits and I wasn't quite happy with that I felt it made it difficult to follow the changes. The reason between those commits was I was picking up 10-15 minute coding sessions between varrious other tasks in my daily work-life routine. I established the core of the page got it roughly to where I wanted it and looked at the commits and went this is unacceptable to my standards.
-
-So I then went back to make the new repository and did my best to replicate the proccess of building the site to nearly identical to the original. So some commits may appear to be made in rapid succession this is due to the code already existing in the other repository and being brought over to the new one but in smaller incriments to do proper commits. Once that was completed I continued to make changes.
-
-## What I would do diffrently in the future:
-
-I would make this a fully functioning site including a fully funtioning form not just a page swap to say thanks while doing absolutly nothing. Do a more mobile first aproach whilst I did start that way I don't feel I did wnough. The page layouts could be simpler/flow better. After seeing some other works on reviews/testimonials I would like a more interactive version which you see one at a time and interact to view more. 
-
-## Index.html:
-
+---
+### index.html
 ![Screencap index.html](assets/images/meaningfulcareersreadmeimg/meaningful_index.png)
 
-### Chrome lighthouse desktop
-![Screencap index.html lighthouse desktop](assets/images/meaningfulcareersreadmeimg/meaningful_lighthouse_desktop.png)
+- Landing page for the site where a user first ends up and it allows them to get an understanding of what meaningful careers is about and what sort of value they might be able to obtain from it with out needing to go into lots of detail. Has a mission statement and about split into three scections.
 
-### Chrome mobile lighthouse
-![Screencap index.html lighthouse mobile](assets/images/meaningfulcareersreadmeimg/meaningful_lighthouse_mobile.png)
-
-Landing page for the site where a user first ends up and it allows them to get an understanding of what meaningful careers is about and what sort of value they might be able to obtain from it with out needing to go into lots of detail. Has a mission statement and about split into three scections.
-
-
-## offerings.html
-
+---
+### offerings.html
 ![Screencap offerings.html](assets/images/meaningfulcareersreadmeimg/meaningful_offers.png)
 
-### Chrome lighthouse Desktop
-![Screencap offerings.html lighthouse desktop](assets/images/meaningfulcareersreadmeimg/meaningful_offer_lighthouse_desktop.png)
+- This page is an information page about the two coaching offers provided by 'Meaningful Careers' and is meant to give a more indepth idea as to what each offer will provide them should the persue the coaching offer further.
 
-### Chrome lighthouse mobile
-![Screencap offerings.html lighthouse mobile](assets/images/meaningfulcareersreadmeimg/meaningful_offer_lighthouse_mobile.png)
+---
+### signup.html
+![Screencap signup.html](assets/images/meaningfulcareersreadmeimg/meaningful_signup.png)
 
-This page is an information page about the two coaching offers provided by 'Meaningful Careers' and is meant to give a more indepth idea as to what each offer will provide them should the persue the coaching offer further.
+- For those who feel the desire to proceed further into geting a coaching session we have a signup page. Theoretically this is where the magic starts to happen. A user would input all the information on this page and register their interest and this will go to a database and pop up to one of the coachs to give the prospect a call or email. With more information about the coaching offer of their choosing. This is where the coach will walk them through the offering and pitch them on it in a way that works for them.
 
-
-## reviews.html
-
+---
+### reviews.html
 ![Screencap reviews.html 1](assets/images/meaningfulcareersreadmeimg/meaningful_reviews.png)
 
 ![Screencap reviews.html showcasing navbar dropdown](assets/images/meaningfulcareersreadmeimg/meaningful_reviews2.png)
 
-### Chrome lighthouse Desktop
-![Screencap reviews.html lighthouse desktop](assets/images/meaningfulcareersreadmeimg/meaningful_review_lighthouse_desktop.png)
+- A page to show case past experiances of those who have used the coaching offer and wished to leave a review. This adds more validity and makes the company more reputible to future prospects. As well as allow them to share in the success of others and see the changes its made.
 
-### Chrome lighthouse mobile
-![Screencap reviews.html lighthouse mobile](assets/images/meaningfulcareersreadmeimg/meaningful_review_lighthouse_mobile.png)
-
-A page to show case past experiances of those who have used the coaching offer and wished to leave a review. This adds more validity and makes the company more reputible to future prospects. As well as allow them to share in the success of others and see the changes its made.
-
-
-## signup.html
-
-![Screencap signup.html](assets/images/meaningfulcareersreadmeimg/meaningful_signup.png)
-
-### Chrome lighthouse Desktop
-![Screencap signup.html lighthouse desktop](assets/images/meaningfulcareersreadmeimg/meaningful_signup_lighthouse_desktop.png)
-
-### Chrome lighthouse mobile
-![Screencap signup.html lighthouse mobile](assets/images/meaningfulcareersreadmeimg/meaningful_signup_lighthouse_mobile.png)
-
-For those who feel the desire to proceed further into geting a coaching session we have a signup page. Theoretically this is where the magic starts to happen. A user would input all the information on this page and register their interest and this will go to a database and pop up to one of the coachs to give the prospect a call or email. With more information about the coaching offer of their choosing. This is where the coach will walk them through the offering and pitch them on it in a way that works for them.
-
-
-## thankyou.html
-
+---
+### thankyou.html
 ![Screencap thankyou.html](assets/images/meaningfulcareersreadmeimg/meaningful_thanks.png)
 
-This is the landing page after a user submits their form idealy once javascript would be added this would change a good bit from this state I would like it to propegate a more personalized messge to the user and provide them an estimate time till they can recieve the call or a link to book a call.
+- This is the landing page after a user submits their form idealy once javascript would be added this would change a good bit from this state I would like it to propegate a more personalized messge to the user and provide them an estimate time till they can recieve the call or a link to book a call.
 
-## Navigation
-![Screencap reviews.html showcasing navbar dropdown](assets/images/meaningfulcareersreadmeimg/meaningful_reviews2.png)
+## Testing
+### How I tested
+- I used google chrome and a mix of devices I own.
 
-The navigation is an animated hamburger icon from fontawesome using css logic on a hident check box when checked it opens and animates the dropdown menu. To keep it simple and uniform it remains the same at all page sizes and even on all pages it never changes so you can find what your looking for with ease.
+### bugs encountered
+- Hero Image not being responsive in a good way was zooming in weird and making the image basically a tiny fraction of the window. Went through a few diffrent varriations of this and wiht the help of my mentor figured out the best solution and I really love how it turned out.
+- A few typos and duplicate enteries in the CSS code which was an easy fix as just needed to correct typos and combine the enteries
+- 
 
-## Validations
-
+## Validation testing
 ### CSS
 ![W3 CSS Validation Image](assets/images/meaningfulcareersreadmeimg/w3cssvalidation.png)
-
 
 ### HTML
 ![W3 HTML Validation Image](assets/images/meaningfulcareersreadmeimg/w3htmlvalidation.png)
 
+### index.html
+**Chrome lighthouse desktop**
+![Screencap index.html lighthouse desktop](assets/images/meaningfulcareersreadmeimg/meaningful_lighthouse_desktop.png)
 
-## References
-Photo by cottonbro studio: https://www.pexels.com/photo/person-in-black-pants-and-black-shoes-sitting-on-brown-wooden-chair-4101143/
+**Chrome mobile lighthouse**
+![Screencap index.html lighthouse mobile](assets/images/meaningfulcareersreadmeimg/meaningful_lighthouse_mobile.png)
+
+### offerings.html
+**Chrome lighthouse Desktop**
+![Screencap offerings.html lighthouse desktop](assets/images/meaningfulcareersreadmeimg/meaningful_offer_lighthouse_desktop.png)
+
+**Chrome lighthouse mobile**
+![Screencap offerings.html lighthouse mobile](assets/images/meaningfulcareersreadmeimg/meaningful_offer_lighthouse_mobile.png)
+
+### reviews.html
+**Chrome lighthouse Desktop**
+![Screencap reviews.html lighthouse desktop](assets/images/meaningfulcareersreadmeimg/meaningful_review_lighthouse_desktop.png)
+
+**Chrome lighthouse mobile**
+![Screencap reviews.html lighthouse mobile](assets/images/meaningfulcareersreadmeimg/meaningful_review_lighthouse_mobile.png)
+
+### signup.html
+**Chrome lighthouse Desktop**
+![Screencap signup.html lighthouse desktop](assets/images/meaningfulcareersreadmeimg/meaningful_signup_lighthouse_desktop.png)
+
+**Chrome lighthouse mobile**
+![Screencap signup.html lighthouse mobile](assets/images/meaningfulcareersreadmeimg/meaningful_signup_lighthouse_mobile.png)
+
+## Deployment
+Used github pages ![View Site here]()
+
+## Technology used
+- HTML
+- CSS
+- Fontawesome
+- Google Fonts
+- Visual Studios Code (VSCode)
+- Github
+- Hypervisor
+- Git 
+
+## Wireframes
+### index.html
+![index.html wireframe](assets/images/indexwire.jpg)
+
+### reviews.html
+![reviews.html wireframe](assets/images/reviewwire.jpg)
+
+### offerings.html
+![offerings.html wireframe](assets/images/offerwire.jpg)
+
+### signup.html
+![signup.html wireframe](assets/images/signupwire.jpg)
+
+### thankyou.html
+![thankyou.html wireframe](assets/images/thankyouwire.jpg)
+
+## Credits
+** Images **
+- Photo by cottonbro studio: https://www.pexels.com/photo/person-in-black-pants-and-black-shoes-sitting-on-brown-wooden-chair-4101143/
 ![Two people in a coaching session](assets/images/coachingsession.webp)
 
-Photo by Pixabay: https://www.pexels.com/photo/close-up-of-human-hand-327540/
+- Photo by Pixabay: https://www.pexels.com/photo/close-up-of-human-hand-327540/
 ![Hand out ready to shake hands](assets/images/reachingforhandshakeinsuit.webp)
 
-Photo by Sindre Fs: https://www.pexels.com/photo/man-wearing-white-crew-neck-vans-top-and-blue-denim-button-up-jacket-1040881/
+- Photo by Sindre Fs: https://www.pexels.com/photo/man-wearing-white-crew-neck-vans-top-and-blue-denim-button-up-jacket-1040881/
 ![Man in white shirt and denim jacket](assets/images/maninvansshirtfacingleft.webp)
 
-Photo by Andrea Piacquadio: https://www.pexels.com/photo/man-in-black-suit-holding-leather-briefcase-3778212/
+- Photo by Andrea Piacquadio: https://www.pexels.com/photo/man-in-black-suit-holding-leather-briefcase-3778212/
 ![Man in black suit holding a breifcase](assets/images/manandbriefcase.webp)
 
-Photo by Rodolfo Clix: https://www.pexels.com/photo/silhouette-image-of-person-praying-1615776/
+- Photo by Rodolfo Clix: https://www.pexels.com/photo/silhouette-image-of-person-praying-1615776/
 ![Silhouette of man wearing barbwire crown](assets/images/barbwirecrown.webp)
 
-Photo by SHVETS production: https://www.pexels.com/photo/man-falling-carton-boxes-with-negative-words-7203956/
+- Photo by SHVETS production: https://www.pexels.com/photo/man-falling-carton-boxes-with-negative-words-7203956/
 ![Man shoving over box's with words on them](assets/images/boxfall.webp)
 
-W3Schools for insperation and building knowledge on subjects covered in course also went to look at it any time I wanted to figure out what a CSS code did. Allowed me to vastly expand what I was able to do with the site although all code was hand written after initial Code instute templete.
+**Code related**
+- W3Schools for insperation and building knowledge on subjects covered in course also went to look at it any time I wanted to figure out what a CSS code did. Allowed me to vastly expand what I was able to do with the site although all code was hand written after initial Code instute templete.
 
-Code Institute 'Love Running' Project for form inspiration I took the basic layout of what I had to do in the challenge and applied it to this project.
+- Code Institute 'Love Running' Project for form inspiration I took the basic layout of what I had to do in the challenge and applied it to this project.
+
+- Mentor Aleksei Konovalov: (github - https://github.com/lexach91) Gave me tips and support when needed helped me solve a few issues with heroimage, And some pointers and better responsiveness at higher resolutions (above standard users 1080p)
+
+- My wife whos been supper supportive of this change in career for me and just being out right amazing we will get her into this one way or another I am sure.
+
+- Code Institute for providing an excelent accelerated learning platform worth every penny.
