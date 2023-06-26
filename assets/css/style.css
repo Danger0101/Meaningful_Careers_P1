@@ -15,7 +15,7 @@ font-family: 'Oswald', sans-serif;
         margin: 0;
         padding: 0;
         border: 0;
-        box-sizing: 0;
+        box-sizing: border-box;
 }
 
 /* Added based on feedback of my mentor Aleksei Konovalov */
@@ -49,17 +49,26 @@ header {
         width: 100%;
         z-index: 999;
 }
-
+/* Mission basic styling */
+#mission {
+        font-family: 'Biryani', sans-serif;
+        text-align: center;
+        max-width: 1200px;
+        margin: auto auto;
+}
+/* about paragraphs */
 .about-text {
         display: block;
         padding: 10px;
         border: none;
+        font-size: 18px;
+        padding: 5% 4% 5% 4%;
 }
-
+/* hides nav checkbox */
 .nav-tog {
         display: none;
 }
-
+/* nav bar */
 nav {
         font-family: 'Oswald', sans-serif;
         color: green;
@@ -73,17 +82,17 @@ nav {
         transform-origin: top;
         transition: transform 400ms ease-in-out;
 }
-
+/* nav list styling */
 nav ul {
         margin: 0;
         padding: 0;
         list-style: none;
 }
-
+/* nav links outter */
 nav li {
         margin: 20px 20px 20px 20px;
 }
-
+/* nav links inner */
 nav a {
         color: bisque;
         text-decoration: none;
@@ -92,20 +101,20 @@ nav a {
         opacity: 0;
         transition: opacity 120ms ease-in-out;
 }
-
+/* hover effect for nav links */
 nav a:hover {
         color: rgb(0, 255, 64);
 }
-
+/* nav links effect to make it visible */
 .nav-tog:checked ~ nav {
         transform: scale(1,1);
 }
-
+/* smooths the effect of nav bar */
 .nav-tog:checked ~ nav a {
         opacity: 1;
         transition: opacity 250ms ease-in-out 250ms;
 }
-
+/* style for nav bar hamburger */
 .nav-tog-label {
         position: absolute;
         top: 20%;
@@ -114,13 +123,13 @@ nav a:hover {
         display: flex;
         align-items: center;
 }
-
+/* logo text styling */
 .logo {
         position: relative;
         text-shadow: 1px 1px 2px yellowgreen, 0 0 6px green, 0 0 8px darkgreen;
 }
-
 /* Main image and cover text */
+/* hero image outter */
 .hero-img-out{
         overflow: hidden;
         height: 600px;
@@ -128,7 +137,7 @@ nav a:hover {
         position: relative;
         overflow: hidden;
 } 
-
+/* hero image styling */
 .hero-img{
         height: 600px;
         width: 100%;
@@ -140,7 +149,6 @@ nav a:hover {
         animation-duration: 5s;
         animation-fill-mode: forwards;
 }
-
 /* Creates the level of zoom for hero image */
 @keyframes main-img-zoom {
         from{
@@ -153,19 +161,7 @@ nav a:hover {
                 transform: scale(1);
         }
 }
-
-#mission {
-        font-family: 'Biryani', sans-serif;
-        text-align: center;
-        max-width: 1200px;
-        margin: auto auto;
-}
-
-.about-text {
-        font-size: 18px;
-        padding: 5% 4% 5% 4%;
-}
-
+/* footer styling */
 footer {
         float: inline-end;
         margin-bottom: 0;
@@ -174,36 +170,37 @@ footer {
         background-color: var(--background);
         text-shadow: 1px 1px 1px black, 2px 3px 5px grey;
 }
-
+/* contact info styling */
 #contact {
         padding-top: 20px;
         text-align: center;
 }
-
+/* social networks */
 .social-networks {
         text-align: center;
         padding: 0;
 }
-    
+/* social network link styling alowing them to fall inline with eachother */
 .social-networks li{
         display: inline;
 }
-    
+/* Social network font awesome icon styling */
 .social-networks i{
         font-size: 280%;
         color: green;
         margin: 3%;
         padding: 0% 5% 0 5%;
 }
-
+/* social network fontawesome hover styling */
 .social-networks i:hover {
         color: yellowgreen;
 }
-
+/* social network fontawesome visited link styling */
 .social-networks i:visited {
         color: yellowgreen;
 }
 /* offerings.html css */
+/* offering outter style */
 .off-out {
         position: relative;
         text-align: center;
@@ -211,7 +208,7 @@ footer {
         padding: 5px 20px;
         text-shadow: 1px 1px 1px black, 5px 5px 10px rgba(105, 105, 105, 0.4);
 }
-
+/* stress managemnet about styling basic */
 #stress-managment-about {
         height: 90%;
         width: 90%;
@@ -221,7 +218,7 @@ footer {
         border-radius: 1%;
         margin: auto;
 }
-
+/* stress managemnet about styling h2 */
 #stress-managment-about h2 {
         font-family: 'Oswald', sans-serif;
         font-size: 26px;
@@ -229,7 +226,7 @@ footer {
         padding: 10px;
         text-transform: uppercase;
 }
-
+/* stress managemnet about styling paragraph */
 #stress-managment-about p {
         font-family: 'Biryani', sans-serif;
         font-size: 20px;
@@ -237,7 +234,7 @@ footer {
         padding: 0 20px 5px 20px;
         text-transform: capitalize;
 }
-
+/* self discovery about styling basic */
 #self-discovery-about {
         height: 90%;
         width: 90%;
@@ -248,7 +245,7 @@ footer {
         background-color: var(--offerbg);
         border-radius: 1%;
 }
-
+/* self discovery about styling h2 */
 #self-discovery-about h2 {
         font-family: 'Oswald', sans-serif;
         font-size: 26px;
@@ -257,7 +254,7 @@ footer {
         padding: 10px;
         text-transform: uppercase;
 }
-
+/* self discovery about styling paragraph */
 #self-discovery-about p {
         font-size: 20px;
         position: relative;
@@ -266,18 +263,19 @@ footer {
         text-transform: capitalize;
 }
 /* Review.html CSS */
-.testimonials {
-        padding: 4px 0;
+/* testomonial outter style */
+.testomonials {
+        padding: 65px 4px;
         text-align: center;
 }
-
+/* testomonial inner style */
 .inner {
         max-width: 1200px;
         margin: auto;
         overflow: hidden;
         padding: 0 20px;
 }
-
+/* testomonial underline via border style */
 .border {
         width: 160px;
         height: 5px;
@@ -285,13 +283,13 @@ footer {
         margin: 2px auto;
         box-shadow: 3px 3px 5px grey;
 }
-
+/* testomonial row style */
 .row {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
 }
-
+/* testomonial column style */
 .col {
         text-align: center;
         flex: 30%;
@@ -304,42 +302,39 @@ footer {
         border-radius: 15%;
         box-shadow: 1px 1px 1px black, 3px 3px 5px grey;
 }
-
-.testomonials {
-        padding-top: 60px;
-}
-
+/* testomonial inner style */
 .testimonial {
         background-color: #fafafa;
         padding: 30px;
 }
-
+/* testomonial profile image style */
 .profile-img {
         width: 25%;
         height: 25%;
         border-radius: 50%;
 }
-
+/* testomonial persons name style */
 .name {
         font-size: 20px;
         text-transform: uppercase;
         padding: 5px;
 }
-
+/* testomonial title style */
 .rev-title {
         padding: 5px;
 }
-
+/* testomonial review star rating style */
 .stars {
         color: gold;
         padding: 5px;
         text-shadow: 1px 1px 1px black, 2px 3px 5px grey;
 }
-
+/* testomonial review paragraph style */
 .review-text {
         font-size: 12px;
 }
 /* Form with inspiration from the love running project */
+/* form background image styling */
 .form-section {
         clear: left;
         background: url("../images/boxfall.webp") no-repeat center;
@@ -347,7 +342,7 @@ footer {
         background-position: center;
         height: 1200px;
 }
-    
+/* form background box to hold components */
 .signup-form {
         margin: 200px 12px 0 0;
         color: #fff;
@@ -358,12 +353,12 @@ footer {
         padding: 30px;
         border-radius: 10% 20%;
 }
-
+/* signup form child h2 style */
 .signup-form > h2 {	
         color: var(--signup-text);
         margin-bottom: 20px;
 }	
-    
+/* form text input styling */ 
 .text-input {	
         background: transparent;	
         color: rgb(200, 255, 200);
@@ -374,11 +369,18 @@ footer {
         border-radius: 2px;
         text-align: center;
 }	
-    
+/* form text input hover styling */
 .text-input:hover {	
         border-color: var(--signup-text);	
 }
-    
+/* radio button selcetion styling (offerings) */
+input[type="radio"] {
+        margin: 10px;
+        padding: 10px;
+        position: relative;
+        display: inline;
+}
+/* register interest button styling */
 .join-button {	
         margin-top: 20px;
         margin-right: 30px;	
@@ -392,25 +394,18 @@ footer {
         position: absolute;
         right: -50px;
         text-shadow: 1px 1px 1px black, 3px 2px 5px black;
-}	
-    
-input[type="radio"] {
-        margin: 10px;
-        padding: 10px;
-        position: relative;
-        display: inline;
 }
-    
+/* register interest button hover over styling */
 .join-button:hover {		
         color: rgb(10, 255, 10);
 }
-
 /* thankyou.html css */
+/* thank you outer style */
 .ty-outer {
         position: relative;
         text-align: center;
 }
-
+/* thank you cover style */
 .ty-cover {
         height: 160px;
         width: 180px;
@@ -426,19 +421,19 @@ input[type="radio"] {
         border-radius: 30% 20%;
         padding: 40px 0 0 0;
 }
-
-
+/* thank you span styling */
 .ty-text-span {
         font-size: 18px;
         display: inline-block;
 }
-
+/* thank you background */
 .ty-img img {
         height: 100%;
         width: 100%;
 }
 /* Media Querries */
-@media screen and (max-width: 1200px){  
+/* for larger screen sizes 1200px wide and down */
+@media screen and (max-width: 1200px){
         body p {
                 font-size: 16px;
                 padding: 0 5px 0 5px;
@@ -450,7 +445,6 @@ input[type="radio"] {
                 padding: 2% 5% 0 5%;
             }
 }
-
 /* For medium screens sizes from 950px wide and down */
 @media screen and (max-width: 950px){
         .hero-img-out{
