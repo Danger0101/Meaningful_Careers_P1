@@ -70,11 +70,11 @@ Meaningful Careers allows people to learn about the company and its offerings wh
 ## Testing
 ### How I tested
 - Google Chrome (various resolutions)
-- Samsung A41 Phone
+- Samsung A41 Phone (image is slightly outdated new paragrap texts)
 
 ![Samsung A41 Phone](assets/images/meaningfulcareersreadmeimg/samsunga41mobile.jpg)
 
-- Teclast Tablet
+- Teclast Tablet (image is slightly outdated new paragrap texts)
 
 ![Samsung A41 Phone](assets/images/meaningfulcareersreadmeimg/teclasttablet.jpg)
 
