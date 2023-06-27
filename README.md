@@ -76,7 +76,8 @@ Meaningful Careers allows people to learn about the company and and its offering
 ### bugs encountered
 - Hero Image not being responsive in a good way was zooming in weird and making the image basically a tiny fraction of the window. Went through a few diffrent varriations of this and wiht the help of my mentor figured out the best solution and I really love how it turned out.
 - A few typos and duplicate enteries in the CSS code which was an easy fix as just needed to correct typos and combine the enteries
-- 
+- Accidentally deleted a body tag on index.html
+- Whilst learning the mark up in readme 
 
 ## Validation testing
 ### CSS
@@ -145,22 +146,23 @@ Used github pages [View Site here](https://danger0101.github.io/Meaningful_Caree
 - Gyzo
 - MS Paint
 - Gimp version 2.10.22
+- Github Desktop App
 
 ## Wireframes
 ### index.html
-![index.html wireframe](assets/images/indexwire.jpg)
+![index.html wireframe](assets/images/indexwire.png)
 
 ### reviews.html
-![reviews.html wireframe](assets/images/reviewwire.jpg)
+![reviews.html wireframe](assets/images/reviewwire.png)
 
 ### offerings.html
-![offerings.html wireframe](assets/images/offerwire.jpg)
+![offerings.html wireframe](assets/images/offerwire.png)
 
 ### signup.html
-![signup.html wireframe](assets/images/signupwire.jpg)
+![signup.html wireframe](assets/images/signupwire.png)
 
 ### thankyou.html
-![thankyou.html wireframe](assets/images/thankyouwire.jpg)
+![thankyou.html wireframe](assets/images/thankyouwire.png)
 
 ## Credits
 ** Images **
