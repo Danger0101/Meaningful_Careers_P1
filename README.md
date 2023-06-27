@@ -84,8 +84,8 @@ Meaningful Careers allows people to learn about the company and its offerings wh
 - [x] Hero Image not being responsive in a good way was zooming in weird and making the image basically a tiny fraction of the window. Went through a few different variations of this and with the help of my mentor figured out the best solution and I really love how it turned out.
 - [x] A few typos and duplicate entries in the CSS code which was an easy fix as just needed to correct typos and combine the entries 
 - [x] Accidentally deleted a body tag on index.html so added it back in,
-- [] Email and Phone are required but inputs are not restrictive email just need '@' phone just needs an input it accepts letters.
-- No other bugs have been indentified.
+- [ ] Email and Phone are required but inputs are not restrictive email just need '@' phone just needs an input it accepts letters.
+- [ ] No other bugs have been indentified.
 
 ## Validation testing
 ### CSS
