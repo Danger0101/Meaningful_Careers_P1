@@ -51,7 +51,7 @@ Meaningful Careers allows people to learn about the company and its offerings wh
 
 ![Screencap signup.html](assets/images/meaningfulcareersreadmeimg/meaningful_signup.png)
 
-- For those who feel the desire to proceed further into getting a coaching session we have a signup page. Theoretically this is where the magic starts to happen. A user would input all the information on this page and register their interest and this will go to a database and pop up to one of the coaches to give the prospect a call or email. With more information about the coaching offer of their choosing. This is where the coach will walk them through the offering and pitch them on it in a way that works for them.
+- For those who feel the desire to proceed further into getting a coaching session we have a signup page. Theoretically this is where the magic starts to happen. A user would input all the information on this page and register their interest and this will go to a database and pop up to one of the coaches to give the prospect a call or email. With more information about the coaching offer of their choosing. This is where the coach will walk them through the offering and pitch them on it in a way that works for them. (at this time it just redirects to thankyou.html)
 
 ---
 ### reviews.html
