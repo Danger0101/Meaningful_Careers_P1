@@ -17,7 +17,7 @@ Meaningful Careers allows people to learn about the company and and its offering
 
 ![Screencap reviews.html showcasing navbar dropdown](assets/images/meaningfulcareersreadmeimg/navbar.png)
 
-- The navigation is an animated hamburger icon from fontawesome using css logic on a hident check box when checked it opens and animates the dropdown menu. To keep it simple and uniform it remains the same at all page sizes and even on all pages it never changes so you can find what your looking for with ease.
+- The navigation is an animated hamburger icon from fontawesome using css logic on a hident check box when checked it opens and animates the dropdown menu. To keep it simple and uniform it remains the same at all page sizes and even on all pages it never changes so you can find what your looking for with ease. You can see me test the navbar [here](https://youtube.com/shorts/hkMueNmEGPg?feature=share).
 
 ---
 ### hero image
@@ -71,7 +71,12 @@ Meaningful Careers allows people to learn about the company and and its offering
 ### How I tested
 - Google Chrome (various resolutions)
 - Samsung A41 Phone
-- Tablet
+
+![Samsung A41 Phone](assets/images/meaningfulcareersreadmeimg/samsunga41mobile.jpg)
+
+- Teclast Tablet
+
+![Samsung A41 Phone](assets/images/meaningfulcareersreadmeimg/teclasttablet.jpg)
 
 ### bugs encountered
 - Hero Image not being responsive in a good way was zooming in weird and making the image basically a tiny fraction of the window. Went through a few diffrent varriations of this and wiht the help of my mentor figured out the best solution and I really love how it turned out.
