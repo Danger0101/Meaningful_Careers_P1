@@ -51,7 +51,9 @@ Meaningful Careers allows people to learn about the company and its offerings wh
 
 ![Screencap signup.html](assets/images/meaningfulcareersreadmeimg/meaningful_signup.png)
 
-- For those who feel the desire to proceed further into getting a coaching session we have a signup page. Theoretically this is where the magic starts to happen. A user would input all the information on this page and register their interest and this will go to a database and pop up to one of the coaches to give the prospect a call or email. With more information about the coaching offer of their choosing. This is where the coach will walk them through the offering and pitch them on it in a way that works for them. (at this time it just redirects to thankyou.html)
+- For those who feel the desire to proceed further into getting a coaching session we have a signup page. Theoretically this is where the magic starts to happen. A user would input all the information on this page and register their interest and this will go to a database and pop up to one of the coaches to give the prospect a call or email. With more information about the coaching offer of their choosing. This is where the coach will walk them through the offering and pitch them on it in a way that works for them.
+- at this time it just redirects to thankyou.html
+- Email and Phone are required but inputs are not restrictive email just need '@' phone just needs an input it accepts letters.
 
 ---
 ### reviews.html
@@ -79,9 +81,10 @@ Meaningful Careers allows people to learn about the company and its offerings wh
 ![Samsung A41 Phone](assets/images/meaningfulcareersreadmeimg/teclasttablet.jpg)
 
 ### bugs encountered
-- Hero Image not being responsive in a good way was zooming in weird and making the image basically a tiny fraction of the window. Went through a few different variations of this and with the help of my mentor figured out the best solution and I really love how it turned out.
-- A few typos and duplicate entries in the CSS code which was an easy fix as just needed to correct typos and combine the entries
-- Accidentally deleted a body tag on index.html so added it back in,
+- [x] Hero Image not being responsive in a good way was zooming in weird and making the image basically a tiny fraction of the window. Went through a few different variations of this and with the help of my mentor figured out the best solution and I really love how it turned out.
+- [x] A few typos and duplicate entries in the CSS code which was an easy fix as just needed to correct typos and combine the entries 
+- [x] Accidentally deleted a body tag on index.html so added it back in,
+- [] Email and Phone are required but inputs are not restrictive email just need '@' phone just needs an input it accepts letters.
 - No other bugs have been indentified.
 
 ## Validation testing
