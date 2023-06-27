@@ -155,19 +155,19 @@ Used github pages [View Site here](https://danger0101.github.io/Meaningful_Caree
 
 ## Wireframes
 ### index.html
-![index.html wireframe](assets/images/indexwire.png)
+![index.html wireframe](assets/images/meaningfulcareersreadmeimg/indexwire.png)
 
 ### reviews.html
-![reviews.html wireframe](assets/images/reviewwire.png)
+![reviews.html wireframe](assets/images/meaningfulcareersreadmeimg/reviewwire.png)
 
 ### offerings.html
-![offerings.html wireframe](assets/images/offerwire.png)
+![offerings.html wireframe](assets/images/meaningfulcareersreadmeimg/offerwire.png)
 
 ### signup.html
-![signup.html wireframe](assets/images/signupwire.png)
+![signup.html wireframe](assets/images/meaningfulcareersreadmeimg/signupwire.png)
 
 ### thankyou.html
-![thankyou.html wireframe](assets/images/thankyouwire.png)
+![thankyou.html wireframe](assets/images/meaningfulcareersreadmeimg/thankyouwire.png)
 
 ## Credits
 ** Images **
